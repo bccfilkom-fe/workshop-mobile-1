@@ -21,10 +21,18 @@ Berikut adalah link Figma yang bisa kalian jadikan gambaran untuk Workshop ini. 
 (*setiap workshop akan diberitahu memakai branch yang mana)
 
 🎨 Design & PPT MATERI:
-
 https://www.figma.com/design/FnXZ8J7pjDKrVQV7c9umTU/WORKSHOP-FE-MOBILE'25?node-id=408-2141&t=xsFYCn0yq2rfn2cL-1
 
 💻 URL Github ini:
-
 https://github.com/bccfilkom-fe/workshop-mobile-1.git
 
+
+**Small Tips Warisan Tahun Lalu**
+Jangan lupa tidur dan makan yang sehat :D
+
+A few resources to get you started if this is your first Flutter project:
+
+- Lab: Write your first Flutter app
+- Cookbook: Useful Flutter samples
+- 
+For help getting started with Flutter development, view the online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
