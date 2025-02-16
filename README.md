@@ -2,7 +2,7 @@
 
 Sebelumnya, selamat karena sudah memasuki tahap internship! 🎉✨
 
-Nah, sebelum memulai kegiatan internship kami perwakilan dari mentor FE mobile akan membantu kalian untuk memberikan guidelines tentang apa saja yang sebaiknya kalian pelajari, stay tune!
+Nah, sebelum memulai kegiatan internship kami perwakilan dari mentor FE mobile akan membantu kalian untuk memberikan guidelines tentang apa saja yang sebaiknya kalian pelajari selama internship, stay tune!
 
 **Getting Started**
 
