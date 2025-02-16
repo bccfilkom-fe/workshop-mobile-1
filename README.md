@@ -20,7 +20,7 @@ Nah, sebelum memulai kegiatan internship kami perwakilan dari mentor FE mobile a
 Berikut adalah link Figma yang bisa kalian jadikan gambaran untuk Workshop ini. Copy juga github url di bawah ke IDE yang kalian gunakan.
 (*setiap workshop akan diberitahu memakai branch yang mana)
 
-🎨 Design & PPT:
+🎨 Design & PPT MATERI:
 
 https://www.figma.com/design/FnXZ8J7pjDKrVQV7c9umTU/WORKSHOP-FE-MOBILE'25?node-id=408-2141&t=xsFYCn0yq2rfn2cL-1
 
