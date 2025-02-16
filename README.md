@@ -1,6 +1,6 @@
 # FE BCC INTERN 2025 - MOBILE DEVELOPMENT
 
-Selamat karena telah melewati tahap offline assessment & interview hingga sampai ke tahap internship! 🎉✨
+Sebelumnya, selamat karena sudah memasuki tahap internship! 🎉✨
 
 Nah, sebelum memulai kegiatan internship kami perwakilan dari mentor FE mobile akan membantu kalian untuk memberikan guidelines tentang apa saja yang sebaiknya kalian pelajari, stay tune!
 
@@ -20,7 +20,11 @@ Nah, sebelum memulai kegiatan internship kami perwakilan dari mentor FE mobile a
 Berikut adalah link Figma yang bisa kalian jadikan gambaran untuk Workshop ini. Copy juga github url di bawah ke IDE yang kalian gunakan.
 (*setiap workshop akan diberitahu memakai branch yang mana)
 
-🎨https://www.figma.com/design/FnXZ8J7pjDKrVQV7c9umTU/WORKSHOP-FE-MOBILE'25?node-id=408-2141&t=xsFYCn0yq2rfn2cL-1
+🎨 Design & PPT:
 
-💻https://github.com/bccfilkom-fe/workshop-mobile-1.git
+https://www.figma.com/design/FnXZ8J7pjDKrVQV7c9umTU/WORKSHOP-FE-MOBILE'25?node-id=408-2141&t=xsFYCn0yq2rfn2cL-1
+
+💻 URL Github ini:
+
+https://github.com/bccfilkom-fe/workshop-mobile-1.git
 
